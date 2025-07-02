@@ -1,1 +1,1 @@
-  MONGODB_HOST: mongodb.narendaws-84s.site:27017
+  MONGODB_HOST: mongodb-{{ env }.narendaws-84s.site:27017
